@@ -1,3 +1,4 @@
+#Historical Data Transformation
 - As a part of the Data Analyst Intern assignment - exercise 1 I was given with a csv file 'input', containing employee data. The data given was in columnar format which I am asked to transform into a historical, row-based versioning format suitable for database storage using Python.
 - The given data consisted the columns 'Employee Code', 'Manager Employee Code, 'Compensation', 'Compensation 1', 'Compensation 1 Date', ' Compensation 2', 'Compensation 2 Date', 'Review 1', 'Review 1 Date', 'Review 2', 'Review 2 Date', 'Engagement 1', 'Engagement 1 Date', 'Engagement 2', and 'Engagement 2 Date'.
 - I have loaded the necessary libraries in the Jupyter notebook. 
