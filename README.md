@@ -8,5 +8,5 @@ The next step was to load the 'input' csv file into a Pandas DataFrame.
 - Additionally, I have defined a function to get dates in between two dates. 
 - Then I calculated the End Date and added the columns to the output file. 
 - Transformed the data to a DataFrame. 
-Saved the transformed data into a new csv file which contains the columns 'Employee Code', 'Manager Employee Code', 'Last Compensation', 'Compensation', 'Last Pay Raise Date', 'Variable Pay', 'Tenure in Org', 'Performance Rating', 'Engagement Score', 'Effective Date' and 'End Date'. 
-Finally, I have displayed the transformed data.
+- Saved the transformed data into a new csv file which contains the columns 'Employee Code', 'Manager Employee Code', 'Last Compensation', 'Compensation', 'Last Pay Raise Date', 'Variable Pay', 'Tenure in Org', 'Performance Rating', 'Engagement Score', 'Effective Date' and 'End Date'. 
+- Finally, I have displayed the transformed data.
